@@ -1,0 +1,11 @@
+addplant(id(A.I.),name,sci,soil,water,climate,fertilizer,height,famous,image(varchar(255)))
+booking(id(A.I.),username,nameofplant,numberofplants,deliveryaddress,email)
+user(id(A.I.),name,email,password)
+
+
+
+
+admin(id(A.I.), login_email(text), login_password(text))
+
+
+admin(admin@gmail.com, admin123)
